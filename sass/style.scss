@@ -1,0 +1,26 @@
+$purple: #C2185B;
+
+.container{
+	background-color: gray;
+	margin: 0;
+	h1{
+		text-transform: uppercase;
+		text-align: center;
+	}
+	.one{
+		color: $purple;
+	}
+	.two{
+		color: red;
+		position: relative;
+	}
+	.three{
+		color: green;
+	}
+	.four{
+		color: pink;
+	}
+	.five{
+		color: yellow;
+	}
+}
